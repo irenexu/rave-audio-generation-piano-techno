@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and datasets, and resources for AI for Media Course at CCI, UAL.
+This repository contains the code and datasets, and resources for the work submitted for AI for Media Course at CCI, UAL.
 
 The project focuses on exploring audio generation and real-time latent space manipulation with Real-time Audio Variational autoEncoder (https://github.com/acids-ircam/RAVE), which was released by Caillon and Esling (ACIDS IRCAM) in 2021.
 
