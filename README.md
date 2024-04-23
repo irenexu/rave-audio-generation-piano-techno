@@ -1,4 +1,4 @@
-# AI-4-Media-Rave-Audio-Generation
+# Rave-Audio-Generation-Piano-Techno README
 
 
 ## Overview
