@@ -25,13 +25,14 @@ In case of any missing files or expired download links, please reach out to the 
 
 ## Disclaimer
 
-Comments have been added to the notebook where external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
+Comments have been added to the notebooks where external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
+
 
 ## Credits
 
-This project builds on the work done by Caillon and Esling (ACIDS IRCAM) in 2021 - RAVE: A variational autoencoder for fast and high-quality neural audio synthesis
+This project builds on the work done by Caillon and Esling (ACIDS IRCAM) in 2021 - RAVE: A variational autoencoder for fast and high-quality neural audio synthesis.
 
-Many thanks to Terence Broad, Irini Kalaitzidi, and Louis McCallum from Creative Computing Insititue, UAL for for advising and helping with this project
+Many thanks to Terence Broad, Irini Kalaitzidi, and Louis McCallum from Creative Computing Insititue, UAL for for advising and helping with this project.
 
 
 
