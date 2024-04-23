@@ -25,7 +25,7 @@ In case of any missing files or expired download links, please reach out to the 
 
 ## Disclaimer
 
-Comments have been added to the notebook where ChatGPT and external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
+Comments have been added to the notebook where external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
 
 
 
