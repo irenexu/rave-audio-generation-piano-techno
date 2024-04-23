@@ -23,6 +23,11 @@ This repo can be used on the providing datasets or any new datasets based on ins
 In case of any missing files or expired download links, please reach out to the repository owner - Irene Xu at i.xu0320231@arts.ac.uk or irenex1724@gmail.com.
 
 
+## Project Report
+
+The project report - *An Exploration of Audio Generation and Real-time Latent Space Manipulation with RAVE* is included in this repo for reference, note that the report has been uploaded to turnitin and subimitted for grading as part of the assessment for the AI for Media course at CCI, UAL.
+
+
 ## Disclaimer
 
 Comments have been added to the notebooks where external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
@@ -33,7 +38,6 @@ Comments have been added to the notebooks where external resources (such as stac
 This project builds on the work done by Caillon and Esling (ACIDS IRCAM) in 2021 - RAVE: A variational autoencoder for fast and high-quality neural audio synthesis.
 
 Many thanks to Terence Broad, Irini Kalaitzidi, and Louis McCallum from Creative Computing Insititue, UAL for for advising and helping with this project.
-
 
 
 
