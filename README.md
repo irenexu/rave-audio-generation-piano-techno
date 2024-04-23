@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code, datasets, and resources for AI for Media Course at CCI. All files are available on GitHub at https://git.arts.ac.uk/23001934/AI-4-Media-Rave-Audio-Generation
+This repository contains the code and datasets, and resources for AI for Media Course at CCI, UAL.
 
 The project focuses on exploring audio generation and real-time latent space manipulation with Real-time Audio Variational autoEncoder (https://github.com/acids-ircam/RAVE), which was released by Caillon and Esling (ACIDS IRCAM) in 2021.
 
@@ -25,7 +25,7 @@ In case of any missing files or expired download links, please reach out to the 
 
 ## Disclaimer
 
-ChatGPT has been used in this project for some proofreading, code debugging, as well as for searching certain Python codes and model training issues which have not been covered in class. Comments have been added to the notebook where ChatGPT and external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
+Comments have been added to the notebook where ChatGPT and external resources (such as stackoverflow post and discord discussion) was used. Some code was adapted from lecture notebooks, with modifications made to tailor it to the project and the dataset used.
 
 
 
